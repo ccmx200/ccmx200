@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=璀璨梦星%20%7C%20Student;TypeScript%20%7C%20Python%20%7C%20C;Vue%20%7C%20AI%20Agent%20%7C%20DeepSeek;Keep%20building%20and%20learning." alt="typing banner" />
-</div>
 
 <h1 align="center">✨ 璀璨梦星</h1>
 
@@ -11,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/yourusername.png" width="180" height="180" alt="avatar" style="border-radius:50%;" />
+  <img src="https://github.com/ccmx200.png" width="180" height="180" alt="avatar" style="border-radius:50%;" />
 </div>
 
 <p align="center">
@@ -53,9 +50,6 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="streak stats" />
