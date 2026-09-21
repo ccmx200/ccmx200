@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/AI-Agent-DeepSeek-ff9e64?style=for-the-badge" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/ccmx200.png" width="180" height="180" alt="avatar" style="border-radius:50%;" />
-</div>
 
 <p align="center">
   我是一名热爱编程与创造的学生，正在学习前端、后端与 AI 应用开发。<br>
